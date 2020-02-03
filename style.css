@@ -4,3 +4,27 @@
     border-bottom: black solid 5px;
     font-size: 30px;
 }
+
+.container {
+    float: center;
+    height: 100%;
+    width: 100%
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    height: 90px;
+}
+
+textarea {
+    color: black;
+    border-left: black solid 2px;
+    border-top: black solid 2px;
+    border-bottom: grey solid 2px;
+    width: 55%;
+    padding: 20px;
+
+}
+
+
