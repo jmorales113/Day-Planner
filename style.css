@@ -27,4 +27,16 @@ textarea {
 
 }
 
+.timeArea {
+    text-align: center;
+    font-size: 25px;
+    border-top: grey solid 2px;
+    padding-top: 25px;
+    border-bottom: grey solid;
+}
+
+.pastTime {
+    background-color: lightblue;
+}
+
 
