@@ -3,6 +3,7 @@
     border-radius: 0;
     border-bottom: black solid 5px;
     font-size: 30px;
+    margin-bottom: 10px;
 }
 
 .container {
@@ -19,9 +20,9 @@
 
 textarea {
     color: black;
-    border-left: black solid 2px;
-    border-top: black solid 2px;
-    border-bottom: grey solid 2px;
+    border-left:grey solid 1px;
+    border-top: grey solid 1px;
+    border-bottom: grey solid 1px;
     width: 55%;
     padding: 20px;
 
@@ -29,10 +30,10 @@ textarea {
 
 .timeArea {
     text-align: center;
-    font-size: 25px;
-    border-top: grey solid 2px;
+    font-size: 20px;
+    border-top: grey solid 1px;
     padding-top: 25px;
-    border-bottom: grey solid;
+    border-bottom: grey solid 1px;
 }
 
 .pastTime {
