@@ -39,4 +39,11 @@ textarea {
     background-color: lightblue;
 }
 
+.presentTime {
+    background-color: lightgreen;
+}
+
+.futureTime {
+    background-color: red;
+}
 
