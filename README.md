@@ -8,3 +8,8 @@ Task: Create a simple calender application that allows the user to save events f
 
 Deployed application: https://jmorales113.github.io/Homework5-DayPlanner/
 
+![image](https://user-images.githubusercontent.com/57970306/75296782-09184680-57e3-11ea-8a2c-f4d62a962b64.png)
+
+![image](https://user-images.githubusercontent.com/57970306/75296805-12a1ae80-57e3-11ea-89f9-9a1358203007.png)
+
+
