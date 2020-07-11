@@ -6,7 +6,7 @@ so that I can manage my time effectively.
 
 Task: Create a simple calender application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-Deployed application: https://jmorales113.github.io/Homework5-DayPlanner/
+Deployed application: https://jmorales113.github.io/Day-Planner/
 
 ![image](https://user-images.githubusercontent.com/57970306/75296782-09184680-57e3-11ea-8a2c-f4d62a962b64.png)
 
